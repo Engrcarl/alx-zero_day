@@ -1,1 +1,1 @@
-i understand now
+my first readme yes
